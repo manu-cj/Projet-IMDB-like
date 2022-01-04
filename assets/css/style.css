@@ -16,7 +16,7 @@
     height: 3.5rem;
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: start;
     align-content: center;
     align-items: center;
     background-color: blue;
@@ -32,17 +32,16 @@
 }
 
 #search {
-    width: 600px;
-    height: 2rem;
+    width: 750px;
+    height: 2.5rem;
 }
 
 #menuItem {
-    width: 7%;
-    height: 2rem;
+    width: 5%;
+    height: 2.5rem;
     background-color: black;
     color: white;
-    font-size: 1em;
-    margin: 2%;
+    margin: 1%;
 }
 
 #input {
@@ -55,8 +54,24 @@
 
 #inputMenu {
     width: 7%;
-    height: 2rem;
+    height: 2.5rem;
     background-color: white;
 }
 
+#imdbPro {
+    width: 7%;
+    height: 2.5rem;
+    margin-right: 3%;
+    margin-left: 3px;
+}
+
+#watchList {
+    width: 7%;
+    height: 2.5rem;
+}
+
+#signIn {
+    width: 7%;
+    height: 2.5rem;
+}
 
