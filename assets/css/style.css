@@ -16,7 +16,7 @@
     height: 3.5rem;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: center;
     align-content: center;
     align-items: center;
     background-color: blue;
@@ -24,7 +24,7 @@
 
 #logo {
     width: 6%;
-    height: 32px;
+    height: 2rem;
     background-image: url(/assets/img/640px-IMDB_Logo_2016.svg.png);
     background-size: cover;
     margin-left: 0.25rem;
@@ -33,4 +33,30 @@
 
 #search {
     width: 600px;
+    height: 2rem;
 }
+
+#menuItem {
+    width: 7%;
+    height: 2rem;
+    background-color: black;
+    color: white;
+    font-size: 1em;
+    margin: 2%;
+}
+
+#input {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+#inputMenu {
+    width: 7%;
+    height: 2rem;
+    background-color: white;
+}
+
+
