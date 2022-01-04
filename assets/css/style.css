@@ -153,7 +153,26 @@ body {
     margin-left: 3%;
 }
 
+#futuredToday {
+    width: 65%;
+    height: 25em;
+    border: solid 4px palevioletred;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
 #featured {
     margin: 2%;
+    width: 100%;
+}
+
+.list {
+    width: 45%;
+    height: 17em;
+    margin: 2%;
+    background-color: darkslategray;
 }
 
