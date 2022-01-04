@@ -22,7 +22,7 @@ body {
     justify-content: start;
     align-content: center;
     align-items: center;
-    background-color: blue;
+    background-color: #d44747;
 }
 
 #logo {
@@ -81,7 +81,7 @@ body {
 #acceuil {
     width: 100%;
     height: 35rem;
-    background-color: royalblue;
+    background-color: #676b67;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -174,5 +174,22 @@ body {
     height: 17em;
     margin: 2%;
     background-color: darkslategray;
+}
+
+#what {
+    width: 100%;
+    height: 4em;
+    border: solid 3px palevioletred;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#recom {
+    color: royalblue;
+    text-decoration-line: none;
+    margin-right: 5px;
 }
 
