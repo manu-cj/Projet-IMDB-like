@@ -6,6 +6,7 @@
 
 body {
     width: 100%;
+    background-color: black;
 }
 #containerMenu {
     width: 100%;
@@ -126,8 +127,11 @@ body {
 }
 
 #tittleUpNext {
-    color: #ffd500;
     margin-bottom: 10%;
+}
+
+.tittle {
+    color: #ffc400;
 }
 
 #browseTrailer {
@@ -147,5 +151,9 @@ body {
     height: 26%;
     border: solid 3px palevioletred;
     margin-left: 3%;
+}
+
+#featured {
+    margin: 2%;
 }
 
