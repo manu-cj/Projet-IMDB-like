@@ -132,6 +132,7 @@ body {
 
 .tittle {
     color: #ffc400;
+    margin: 2%;
 }
 
 #browseTrailer {
@@ -191,5 +192,6 @@ body {
     color: royalblue;
     text-decoration-line: none;
     margin-right: 5px;
+
 }
 
