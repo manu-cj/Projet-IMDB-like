@@ -258,3 +258,16 @@ body {
     height: 13%;
     background-color: #f17c5b;
 }
+
+#yourWatchList {
+    width: 100%;
+    height: 20em;
+    border: solid 3px palevioletred;
+    margin-top: 70px;
+}
+
+#fromWatchList {
+    width: 100%;
+    height: 25%;
+    background-color: #9900ff;
+}
