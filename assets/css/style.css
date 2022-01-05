@@ -278,6 +278,10 @@ body {
     background-color: #9900ff;
 }
 
+#watchlistContent {
+    text-align: center;
+}
+
 #SigninImdb {
     margin-top: 50px;
     padding-bottom: 10px;
