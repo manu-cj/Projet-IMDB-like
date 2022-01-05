@@ -326,3 +326,27 @@ body {
 #mostPopular {
     padding: 5px 80px 5px 80px;
 }
+
+#exclusiveVideo {
+    width:100%;
+    height: 30em;
+    border: solid 4px palevioletred;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+
+#exclu {
+    width: 100%;
+    color: white;
+}
+
+.list2 {
+    width: 28%;
+    height: 17em;
+    margin: 2%;
+    background-color: darkslategray;
+}
