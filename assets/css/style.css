@@ -357,3 +357,10 @@ body {
 #tvTop {
     margin-bottom: 8px;
 }
+
+#moreWatch {
+    width: 100%;
+    height: 15em;
+    border: solid 3px palevioletred;
+    color: white;
+}
