@@ -284,10 +284,7 @@ body {
 
 #SigninImdb {
     margin-top: 50px;
-    padding-bottom: 10px;
-    padding-top: 10px;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding: 10px 50px 10px 50px;
     background-color: #ffc400;
     border-radius: 5px;
 }
@@ -321,4 +318,11 @@ body {
     height: 15em;
     border: solid 3px palevioletred;
     color: white;
+}
+
+#watchGuide {
+    padding: 5px 80px 5px 80px;
+}
+#mostPopular {
+    padding: 5px 80px 5px 80px;
 }
