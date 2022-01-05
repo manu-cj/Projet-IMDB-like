@@ -264,6 +264,12 @@ body {
     height: 20em;
     border: solid 3px palevioletred;
     margin-top: 70px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-items: center;
 }
 
 #fromWatchList {
