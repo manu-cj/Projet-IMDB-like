@@ -223,4 +223,38 @@ body {
     margin-left: 10px;
     margin-right: 10px;
     background-color: #676b67;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-items: center;
+}
+
+.cover {
+    width: 100%;
+    height: 55%;
+    background-color: palevioletred;
+}
+
+.rate {
+    width: 100%;
+    height: 10%;
+    background-color: #00ff73;
+}
+.nameFilm {
+    width: 100%;
+    height: 15%;
+    background-color: #ffd500;
+}
+
+.watchlistbutton {
+    width: 90%;
+    height: 7%;
+    background-color: #c46dfd;
+}
+
+.trailer {
+    width: 100%;
+    height: 13%;
+    background-color: #f17c5b;
 }
