@@ -277,3 +277,11 @@ body {
     height: 25%;
     background-color: #9900ff;
 }
+
+#SigninImdb {
+    margin-top: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
